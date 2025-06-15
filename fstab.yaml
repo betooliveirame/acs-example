@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/betooliveirame/acs-example/
+    type: markup
+
+folders:
+  /products/: /products/default
